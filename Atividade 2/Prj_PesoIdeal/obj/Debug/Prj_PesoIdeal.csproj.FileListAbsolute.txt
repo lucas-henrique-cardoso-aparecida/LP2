@@ -1,0 +1,20 @@
+C:\Users\lucas\source\repos\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.exe.config
+C:\Users\lucas\source\repos\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.exe
+C:\Users\lucas\source\repos\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.pdb
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.Form1.resources
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.Properties.Resources.resources
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.exe
+C:\Users\lucas\source\repos\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\bin\Debug\Prj_PesoIdeal.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prj_PesoIdeal\obj\Debug\Prj_PesoIdeal.pdb
