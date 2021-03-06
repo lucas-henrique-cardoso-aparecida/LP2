@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\PrjTriangulo\bin\Debug\PrjTriangulo.exe.config
+C:\Users\lucas\source\repos\PrjTriangulo\bin\Debug\PrjTriangulo.exe
+C:\Users\lucas\source\repos\PrjTriangulo\bin\Debug\PrjTriangulo.pdb
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.Form1.resources
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.Properties.Resources.resources
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.exe
+C:\Users\lucas\source\repos\PrjTriangulo\obj\Debug\PrjTriangulo.pdb
