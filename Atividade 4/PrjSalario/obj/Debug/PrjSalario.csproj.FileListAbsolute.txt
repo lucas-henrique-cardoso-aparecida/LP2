@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\PrjSalario\bin\Debug\PrjSalario.exe.config
+C:\Users\lucas\source\repos\PrjSalario\bin\Debug\PrjSalario.exe
+C:\Users\lucas\source\repos\PrjSalario\bin\Debug\PrjSalario.pdb
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.Form1.resources
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.Properties.Resources.resources
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.exe
+C:\Users\lucas\source\repos\PrjSalario\obj\Debug\PrjSalario.pdb
