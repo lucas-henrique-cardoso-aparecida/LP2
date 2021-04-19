@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\Ptestemetodos\bin\Debug\Ptestemetodos.exe.config
+C:\Users\lucas\source\repos\Ptestemetodos\bin\Debug\Ptestemetodos.exe
+C:\Users\lucas\source\repos\Ptestemetodos\bin\Debug\Ptestemetodos.pdb
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.frmPrincipal.resources
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.Properties.Resources.resources
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.exe
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.pdb
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.frmExercicio2.resources
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.frmExercicio3.resources
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.frmExercicio4.resources
+C:\Users\lucas\source\repos\Ptestemetodos\obj\Debug\Ptestemetodos.frmExercicio5.resources
