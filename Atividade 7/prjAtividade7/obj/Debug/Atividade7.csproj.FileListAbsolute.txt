@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\lucas\source\repos\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\lucas\source\repos\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.frmExercicio1.resources
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.frmExercicio3.resources
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.frmExercicio4.resources
+C:\Users\lucas\source\repos\Atividade7\obj\Debug\Atividade7.frmExercicio2.resources
