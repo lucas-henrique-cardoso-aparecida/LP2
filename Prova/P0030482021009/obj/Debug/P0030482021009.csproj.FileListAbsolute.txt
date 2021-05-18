@@ -1,0 +1,20 @@
+C:\Users\lucas\source\repos\P0030482021009\bin\Debug\P0030482021009.exe.config
+C:\Users\lucas\source\repos\P0030482021009\bin\Debug\P0030482021009.exe
+C:\Users\lucas\source\repos\P0030482021009\bin\Debug\P0030482021009.pdb
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.Form1.resources
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.Properties.Resources.resources
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.exe
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.pdb
+C:\Users\lucas\source\repos\P0030482021009\obj\Debug\P0030482021009.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\bin\Debug\P0030482021009.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\bin\Debug\P0030482021009.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\bin\Debug\P0030482021009.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Fatec - 2° Semestre\LP 2\Prova\P0030482021009\obj\Debug\P0030482021009.pdb
